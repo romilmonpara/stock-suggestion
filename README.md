@@ -77,9 +77,10 @@ streamlit run app.py
 
 ## 👨‍💻 Author  
 **Romil Monpara**
-
 🔗 [Portfolio](https://romilmonpara.netlify.app/)  
 🐙 [GitHub](https://github.com/romilmonpara)  
 💼 [LinkedIn](https://www.linkedin.com/in/romilmonpara)
 
+---
 ## ⭐ Star this repo if you find it useful! ⭐
+---
