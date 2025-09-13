@@ -61,7 +61,7 @@ Built with **Streamlit** and **yfinance** to fetch real-time stock market data.
 
 Clone the repo:
 ```bash
-git clone https://github.com/yourusername/stock-trading-suggestion.git
+git clone https://github.com/romilmonpara/stock-suggestion.git
 cd stock-trading-suggestion
 ```
 
