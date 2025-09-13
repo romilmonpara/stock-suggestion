@@ -74,13 +74,14 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+---
+## 👨‍💻 Developer Info
 
-## 👨‍💻 Author  
-**Romil Monpara**
-🔗 [Portfolio](https://romilmonpara.netlify.app/)  
-🐙 [GitHub](https://github.com/romilmonpara)  
-💼 [LinkedIn](https://www.linkedin.com/in/romilmonpara)
-
+- **Full Name:** **Romil Monpara**
+- 🎓 B.Tech in Information Technology, LJIET (Graduating in 2027)
+-🔗 [Portfolio](https://romilmonpara.netlify.app/)  
+-🐙**GitHub:** [GitHub](https://github.com/romilmonpara)  
+-💼**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/romilmonpara)
 ---
 ## ⭐ Star this repo if you find it useful! ⭐
 ---
