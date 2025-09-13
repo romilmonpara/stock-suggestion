@@ -1,7 +1,7 @@
 # 📈 Stock Trading Suggestion System
 
 <p align="center">
-  <img src="assets/preview.png" alt="App Preview" width="800"/>
+  <img src="assets/dashboard.png" alt="App Preview" width="800"/>
 </p>
 
 An **AI-powered technical analysis web app** that provides **Buy / Sell / Hold** trading suggestions based on **SMA, RSI, and MACD indicators**.  
@@ -36,14 +36,14 @@ Built with **Streamlit** and **yfinance** to fetch real-time stock market data.
 ---
 
 ## 📸 Screenshots
-### 🔹 Dashboard
-<img src="assets/dashboard.png" alt="Dashboard" width="800"/>
-
 ### 🔹 RSI & MACD Plots
 <img src="assets/indicators.png" alt="Indicators" width="800"/>
 
 ### 🔹 Backtest Results
 <img src="assets/backtest.png" alt="Backtest Results" width="800"/>
+
+### 🔹 Signals and More
+<img src="assets/signals.png" alt="Dashboard" width="800"/>
 
 ---
 
@@ -63,15 +63,17 @@ Clone the repo:
 ```bash
 git clone https://github.com/yourusername/stock-trading-suggestion.git
 cd stock-trading-suggestion
+```
 
 ## 📂 Installation
-
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
 
 ```bash
 streamlit run app.py
+```
 
 ## 👨‍💻 Author  
 **Romil Monpara**
@@ -79,4 +81,3 @@ streamlit run app.py
 🔗 [Portfolio](https://romilmonpara.netlify.app/)  
 🐙 [GitHub](https://github.com/romilmonpara)  
 💼 [LinkedIn](https://www.linkedin.com/in/romilmonpara)
-
