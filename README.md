@@ -79,9 +79,9 @@ streamlit run app.py
 
 - **Full Name:** **Romil Monpara**
 - 🎓 B.Tech in Information Technology, LJIET (Graduating in 2027)
--🔗**Portfolio:** [Watch Portfolio](https://romilmonpara.netlify.app/)  
--🐙**GitHub:** [Let's do innovative](https://github.com/romilmonpara)  
--💼**LinkedIn:** [Connect Here!](https://www.linkedin.com/in/romilmonpara)
+- 🔗**Portfolio:** [Watch Portfolio](https://romilmonpara.netlify.app/)  
+- 🐙**GitHub:** [Let's do innovative](https://github.com/romilmonpara)  
+- 💼**LinkedIn:** [Connect Here!](https://www.linkedin.com/in/romilmonpara)
 ---
 ## ⭐ Star this repo if you find it useful! ⭐
 ---
